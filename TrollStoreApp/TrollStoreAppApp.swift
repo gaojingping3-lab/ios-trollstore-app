@@ -4,7 +4,7 @@ import SwiftUI
 struct TrollStoreAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TimeZoneClockView()
         }
     }
 }
